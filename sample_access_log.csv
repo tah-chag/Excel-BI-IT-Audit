@@ -1,0 +1,10 @@
+Username,Role,System,AccessTime,Action,Location
+jdoe,Finance,ERP,2025-05-01 08:15:00,Login,South Africa
+amoyo,Admin,ERP,2025-05-01 02:40:00,Login,Nigeria
+tsibanda,HR,Payroll,2025-05-01 09:00:00,Access Record,South Africa
+kmakoni,Finance,ERP,2025-05-01 08:20:00,Failed Login,South Africa
+nmpofu,IT,Network,2025-05-01 11:30:00,Configuration Change,South Africa
+jdoe,Finance,ERP,2025-05-02 22:15:00,Login,Zimbabwe
+amoyo,Admin,ERP,2025-05-02 01:00:00,Access Record,Nigeria
+mnyoni,Finance,ERP,2025-05-01 14:15:00,Download Report,Botswana
+tsibanda,HR,Payroll,2025-05-02 03:45:00,Access Record,South Africa
